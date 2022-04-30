@@ -1,0 +1,21 @@
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,Foreign video
+DOMAIN-SUFFIX,phprcdn.com,Foreign video
+DOMAIN-SUFFIX,pornhub.com,Foreign video
+DOMAIN-SUFFIX,pornhubpremium.com,Foreign video
+
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,Foreign video
+USER-AGENT,YouTube*,Foreign video
+DOMAIN-SUFFIX,googlevideo.com,Foreign video
+DOMAIN-SUFFIX,withyoutube.com,Foreign video
+DOMAIN-SUFFIX,youtu.be,Foreign video
+DOMAIN-SUFFIX,youtube.com,Foreign video
+DOMAIN-SUFFIX,youtubeeducation.com,Foreign video
+DOMAIN-SUFFIX,youtubegaming.com,Foreign video
+DOMAIN-SUFFIX,youtubekids.com,Foreign video
+DOMAIN-SUFFIX,youtube-nocookie.com,Foreign video
+DOMAIN-SUFFIX,yt.be,Foreign video
+DOMAIN-SUFFIX,ytimg.com,Foreign video
+DOMAIN,youtubei.googleapis.com,Foreign video
+DOMAIN,yt3.ggpht.com,Foreign video
