@@ -29,3 +29,32 @@ IP6-CIDR,2a0a:f280::/32,style
 # TOTAL: 2
 HOST-SUFFIX,cdninstagram.com,style
 HOST-SUFFIX,instagram.com,style
+
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-04-16 00:18:20
+# USER-AGENT: 1
+# HOST-SUFFIX: 12
+# HOST-KEYWORD: 5
+# HOST: 1
+# TOTAL: 19
+HOST,p16-tiktokcdn-com.akamaized.net,style
+HOST-SUFFIX,byteoversea.com,style
+HOST-SUFFIX,ibytedtos.com,style
+HOST-SUFFIX,ibyteimg.com,style
+HOST-SUFFIX,ipstatp.com,style
+HOST-SUFFIX,muscdn.com,style
+HOST-SUFFIX,musical.ly,style
+HOST-SUFFIX,sgpstatp.com,style
+HOST-SUFFIX,snssdk.com,style
+HOST-SUFFIX,tik-tokapi.com,style
+HOST-SUFFIX,tiktok.com,style
+HOST-SUFFIX,tiktokcdn.com,style
+HOST-SUFFIX,tiktokv.com,style
+HOST-KEYWORD,-tiktokcdn-com,style
+HOST-KEYWORD,musical.ly,style
+HOST-KEYWORD,tiktok,style
+HOST-KEYWORD,tiktokcdn-,style
+HOST-KEYWORD,tiktokv,style
+USER-AGENT,TikTok*,style
